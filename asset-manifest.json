@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/static/css/main.c213072c.chunk.css",
-    "main.js": "/static/js/main.92630318.chunk.js",
-    "main.js.map": "/static/js/main.92630318.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.66aa7f38.js",
-    "runtime-main.js.map": "/static/js/runtime-main.66aa7f38.js.map",
-    "static/js/2.08519c41.chunk.js": "/static/js/2.08519c41.chunk.js",
-    "static/js/2.08519c41.chunk.js.map": "/static/js/2.08519c41.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.5369aa683fc7535ca10890492698cb62.js": "/precache-manifest.5369aa683fc7535ca10890492698cb62.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.c213072c.chunk.css.map": "/static/css/main.c213072c.chunk.css.map",
-    "static/js/2.08519c41.chunk.js.LICENSE.txt": "/static/js/2.08519c41.chunk.js.LICENSE.txt",
-    "static/media/index.css": "/static/media/bg.5ece7df8.jpg"
+    "main.css": "/lol-react-app/static/css/main.7a429e6a.chunk.css",
+    "main.js": "/lol-react-app/static/js/main.92630318.chunk.js",
+    "main.js.map": "/lol-react-app/static/js/main.92630318.chunk.js.map",
+    "runtime-main.js": "/lol-react-app/static/js/runtime-main.d1c09f43.js",
+    "runtime-main.js.map": "/lol-react-app/static/js/runtime-main.d1c09f43.js.map",
+    "static/js/2.08519c41.chunk.js": "/lol-react-app/static/js/2.08519c41.chunk.js",
+    "static/js/2.08519c41.chunk.js.map": "/lol-react-app/static/js/2.08519c41.chunk.js.map",
+    "index.html": "/lol-react-app/index.html",
+    "precache-manifest.d7ed7d014c6e438a6adf4be98e0adc9d.js": "/lol-react-app/precache-manifest.d7ed7d014c6e438a6adf4be98e0adc9d.js",
+    "service-worker.js": "/lol-react-app/service-worker.js",
+    "static/css/main.7a429e6a.chunk.css.map": "/lol-react-app/static/css/main.7a429e6a.chunk.css.map",
+    "static/js/2.08519c41.chunk.js.LICENSE.txt": "/lol-react-app/static/js/2.08519c41.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/lol-react-app/static/media/bg.5ece7df8.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.66aa7f38.js",
+    "static/js/runtime-main.d1c09f43.js",
     "static/js/2.08519c41.chunk.js",
-    "static/css/main.c213072c.chunk.css",
+    "static/css/main.7a429e6a.chunk.css",
     "static/js/main.92630318.chunk.js"
   ]
 }
