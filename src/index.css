@@ -1,0 +1,46 @@
+body{
+  background: url("bg.jpg") no-repeat center center fixed;
+  background-size: cover;
+  min-width: 500px;
+} 
+.champ_container{
+  position: relative;
+}
+.img_champ{
+  
+  height: 80px;
+  width: 80px;
+  border: 1px groove blue;
+  /* position: absolute;
+  left: 0;
+  top: 0; */
+  z-index: 1;
+}
+/* .frame{
+  width: 84px;
+  position: relative;
+  left: -2px;
+  top: -3px;
+  z-index:2 ;
+} */
+
+.skills img{
+  height: 60px;
+  width: 60px;
+}
+::-webkit-scrollbar{
+  display: none;
+}
+.champ_tooltip{
+  /* background-image: url("/img/champ_bg/Aatrox_0.jpg"); */
+  background-repeat: no-repeat;
+  background-size: cover;
+  opacity: 0.97;
+  width: 400px;
+  height: 200px;
+  position: fixed;
+  z-index: 2;
+}
+
+
+
